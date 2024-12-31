@@ -1,0 +1,2 @@
+This repository consits the solutions of the questions asked by the company MyRx as the process of the placement requitment. 
+The file names are corresponded to the question for exapmple for the first question the solution is present in the file named problem1.
